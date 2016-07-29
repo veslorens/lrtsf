@@ -1,0 +1,17 @@
+# DEFAULT
+/bootstrap/compiled.php
+/vendor
+/app/config/local
+/app/config/staging
+/app/config/production
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+.idea/
+Thumbs.db
+
+# EXTRA
+/public/lib
+.install
